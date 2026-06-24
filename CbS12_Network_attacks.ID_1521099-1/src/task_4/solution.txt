@@ -1,0 +1,3 @@
+flag: S21{w00w_h1d3_4nd_s33k_1ns1d3_dns}
+
+Атаку (днс тунелинг) можно было обнаружить с помощью: IDS/IPS, SIEM/SOAR, NGFW 

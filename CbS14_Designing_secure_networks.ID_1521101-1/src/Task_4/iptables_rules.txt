@@ -1,0 +1,35 @@
+# правила iptables для блокировки трафика - аналог правил pfSense из задания 3
+
+# 1. блокировка RDP (TCP 3389)
+
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 3389 -j LOG --log-prefix "FW: RDP BLOCKED " --log-level 4
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 3389 -j DROP
+iptables -A OUTPUT -s 192.168.100.0/24 -p tcp --dport 3389 -j REJECT --reject-with tcp-reset
+
+
+# 2. блокировка SSH (TCP 22)
+
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 22 -j LOG --log-prefix "FW: SSH BLOCKED " --log-level 4
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 22 -j DROP
+iptables -A OUTPUT -s 192.168.100.0/24 -p tcp --dport 22 -j REJECT --reject-with tcp-reset
+
+
+# 3. SMTP (TCP 25) только в рабочее время 07:00-22:59
+# разрешить SMTP в рабочее время (07:00-22:59)
+
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 25 -m time --timestart 07:00 --timestop 22:59 --kerneltz -j LOG --log-prefix "FW: SMTP ALLOWED " --log-level 4
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 25 -m time --timestart 07:00 --timestop 22:59 --kerneltz -j ACCEPT
+iptables -A OUTPUT -s 192.168.100.0/24 -p tcp --dport 25 -m time --timestart 07:00 --timestop 22:59 --kerneltz -j ACCEPT
+
+# блокировать SMTP вне рабочего времени
+
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 25 -j LOG --log-prefix "FW: SMTP BLOCKED " --log-level 4
+iptables -A FORWARD -s 192.168.100.0/24 -p tcp --dport 25 -j DROP
+iptables -A OUTPUT -s 192.168.100.0/24 -p tcp --dport 25 -j REJECT --reject-with tcp-reset
+
+
+# разрешение уже установленных соединений
+
+iptables -I INPUT 1 -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
+iptables -I OUTPUT 1 -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
+iptables -I FORWARD 1 -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT

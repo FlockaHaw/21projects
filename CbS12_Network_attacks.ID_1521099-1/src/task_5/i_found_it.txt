@@ -1,0 +1,10 @@
+Команда для поиска в FOFA:
+app="NGINX" && country="RU" && header="Server: nginx/1.13.0" && header="Accept-Ranges"
+
+Команда для Censys: 
+services.software.vendor: "NGINX" and location.country_code: "RU" and services.http.response.headers: (key: "Server" and value: "nginx/1.13.0") and services.http.response.headers.key: "Accept-Ranges"
+
+Команда для Shodan:
+product:"nginx" version:1.10,1.11,1.12 country:"RU" "Accept-Ranges"
+
+ips = 185.143.221.208; 149.154.64.20

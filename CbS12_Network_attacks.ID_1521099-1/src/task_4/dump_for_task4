@@ -1,0 +1,182 @@
+!command (Best-Komp)
+shell
+cmd.exe (Best-Komp)
+Microsoft Windows [Version 10.0.18363.449]
+(c) Корпорация Майкрософт (Microsoft Corporation), 2019. Все права защищены.
+
+C:\Users\Admin\Downloads>
+cd C:\Windows\
+
+C:\Windows>
+dir
+Том в устройстве C не имеет метки.
+Серийный номер тома: EA62-7C54
+
+Содержимое папки C:\Windows
+
+
+14.08.2020  01:37    <DIR>          .
+14.08.2020  01:37    <DIR>          ..
+19.03.2019  07:52    <DIR>          addins
+19.03.2019  07:52    <DIR>          appcompat
+25.10.2019  13:30    <DIR>          apppatch
+19.03.2019  07:52    <DIR>          AppReadiness
+19.03.2019  14:44    <DIR>          assembly
+17.11.2019  00:35               293 autologon.log
+25.10.2019  13:30    <DIR>          bcastdvr
+19.03.2019  07:43            73 216 bfsvc.exe
+26.10.2019  00:12            19 535 Blank.ico
+19.03.2019  07:52    <DIR>          Boot
+19.03.2019  07:52    <DIR>          Branding
+26.10.2019  00:03    <DIR>          CbsTemp
+19.03.2019  15:02    <DIR>          Containers
+17.11.2019  00:30    <DIR>          CSC
+19.03.2019  07:52    <DIR>          Cursors
+17.11.2019  00:28    <DIR>          debug
+19.03.2019  07:52    <DIR>          diagnostics
+25.10.2019  13:30    <DIR>          DiagTrack
+19.03.2019  14:35    <DIR>          DigitalLocker
+17.11.2019  00:28             1 171 DtcInstall.log
+19.03.2019  14:35    <DIR>          en-US
+25.10.2019  13:28         4 615 616 explorer.exe
+19.03.2019  07:52    <DIR>          GameBarPresenceWriter
+19.03.2019  07:52    <DIR>          Globalization
+19.03.2019  14:35    <DIR>          Help
+25.10.2019  13:28         1 059 840 HelpPane.exe
+19.03.2019  07:45            18 432 hh.exe
+19.03.2019  07:52    <DIR>          IdentityCRL
+19.03.2019  14:35    <DIR>          IME
+17.11.2019  00:28    <DIR>          ImmersiveControlPanel
+27.08.2020  20:38    <DIR>          INF
+19.03.2019  07:52    <DIR>          InputMethod
+19.03.2019  07:52    <DIR>          L2Schemas
+19.03.2019  07:52    <DIR>          LiveKernelReports
+14.08.2020  01:26    <DIR>          Logs
+17.11.2019  00:28             1 378 lsasetup.log
+19.03.2019  07:44            43 131 mib.bin
+19.03.2019  07:52    <DIR>          Microsoft.NET
+19.03.2019  07:52    <DIR>          Migration
+19.03.2019  07:52    <DIR>          ModemLogs
+19.03.2019  07:45           181 248 notepad.exe
+19.03.2019  14:36    <DIR>          OCR
+19.03.2019  07:53    <DIR>          Offline Web Pages
+17.11.2019  00:28    <DIR>          Panther
+19.03.2019  07:52    <DIR>          Performance
+14.08.2020  01:37               316 PFRO.log
+19.03.2019  07:52    <DIR>          PLA
+26.10.2019  00:02    <DIR>          PolicyDefinitions
+14.08.2020  01:38    <DIR>          Prefetch
+17.11.2019  00:28    <DIR>          PrintDialog
+19.03.2019  07:46            34 925 Professional.xml
+07.10.2019  05:59    <DIR>          Provisioning
+19.03.2019  07:45           358 400 regedit.exe
+14.08.2020  01:37    <DIR>          Registration
+19.03.2019  14:37    <DIR>          RemotePackages
+19.03.2019  07:52    <DIR>          rescache
+19.03.2019  07:52    <DIR>          Resources
+19.03.2019  14:35    <DIR>          ru-RU
+19.03.2019  07:52    <DIR>          SchCache
+19.03.2019  14:37    <DIR>          schemas
+19.03.2019  14:37    <DIR>          security
+17.11.2019  00:28    <DIR>          ServiceProfiles
+19.03.2019  07:52    <DIR>          ServiceState
+19.03.2019  14:36    <DIR>          servicing
+19.03.2019  07:56    <DIR>          Setup
+17.11.2019  00:35             1 814 setupact.log
+17.11.2019  00:35                 0 setuperr.log
+25.10.2019  13:30    <DIR>          ShellComponents
+25.10.2019  13:30    <DIR>          ShellExperiences
+19.03.2019  07:52    <DIR>          SKB
+17.11.2019  00:29    <DIR>          SoftwareDistribution
+19.03.2019  07:52    <DIR>          Speech
+19.03.2019  07:52    <DIR>          Speech_OneCore
+07.10.2019  05:55           132 096 splwow64.exe
+19.03.2019  07:52    <DIR>          System
+19.03.2019  07:49               219 system.ini
+27.08.2020  20:38    <DIR>          System32
+19.03.2019  14:37    <DIR>          SystemApps
+26.10.2019  00:02    <DIR>          SystemResources
+14.08.2020  01:36    <DIR>          SysWOW64
+19.03.2019  07:52    <DIR>          TAPI
+17.11.2019  00:28    <DIR>          Tasks
+27.08.2020  21:55    <DIR>          Temp
+07.10.2019  05:59    <DIR>          TextInput
+19.03.2019  07:52    <DIR>          tracing
+19.03.2019  07:53    <DIR>          twain_32
+19.03.2019  07:46            64 512 twain_32.dll
+19.03.2019  07:52    <DIR>          Vss
+19.03.2019  07:52    <DIR>          WaaS
+19.03.2019  07:52    <DIR>          Web
+19.03.2019  07:49                92 win.ini
+27.08.2020  21:09               276 WindowsUpdate.log
+19.03.2019  07:46            11 776 winhlp32.exe
+17.11.2019  00:28    <DIR>          WinSxS
+19.03.2019  14:37           316 640 WMSysPr9.prx
+19.03.2019  07:45            11 264 write.exe
+              23 файлов 
+     6 946 190 байт
+              75 папок  261 980 291 072 байт свободно
+
+C:\Windows>
+more WindowsUpdate.log
+
+more WindowsUpdate.log
+Windows Update logs are now generated using ETW (Event Tracing for Windows).
+Please run the Get-WindowsUpdateLog PowerShell command to convert ETW traces into a readable WindowsUpdate.log.
+
+
+
+For more information, please visit https://go.microsoft.com/fwlink/?LinkId=518345
+
+C:\Windows>
+cd ..\Users\Admin\Desktop\
+
+cd ..\Users\Admin\Desktop\
+
+C:\Users\Admin\Desktop>
+ping 8.8.8.8
+
+ping 8.8.8.8
+
+Обмен пакетами с 8.8.8.8 по с 32 байтами данных:
+
+Превышен интервал ожидания для запроса.
+
+Превышен интервал ожидания для запроса.
+
+Превышен интервал ожидания для запроса.
+
+Превышен интервал ожидания для запроса.
+
+Статистика Ping для 8.8.8.8:
+    Пакетов: отправлено = 4, получено = 0, потеряно = 4
+    (100% потерь)
+
+C:\Users\Admin\Desktop>
+C:\Users\Admin\Desktop>
+dir
+Том в устройстве C не имеет метки.
+Серийный номер тома: EA62-7C54
+
+Содержимое папки C:\Users\Admin\Desktop
+
+27.08.2020  22:23    <DIR>          .
+27.08.2020  22:23    <DIR>          ..
+27.08.2020  22:06                34 flag.txt
+27.08.2020  22:23                18 hello.txt
+               2 файлов   
+          52 байт
+               2 папок  261 980 061 696 байт свободно
+
+C:\Users\Admin\Desktop>
+more flag.txt
+
+more flag.txt
+S21{w00w_h1d3_4nd_s33k_1ns1d3_dns}
+
+C:\Users\Admin\Desktop>
+echo "Hello, Admin!" > hello.txt
+
+echo "Hello, Admin!" > hello.txt
+
+C:\Users\Admin\Desktop>

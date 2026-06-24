@@ -1,0 +1,2 @@
+0 0 * * * /usr/sbin/logwatch --output mail --mailto b.inz@yandex.ru --detail High --range yesterday
+

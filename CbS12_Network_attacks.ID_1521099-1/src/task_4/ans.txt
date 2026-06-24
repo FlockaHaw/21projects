@@ -1,0 +1,1825 @@
+[*] Using provided session key: 28b700329a268a0021636f6d6d616e64
+
+============================================================
+[*] Decoding traffic with session key: 28b700329a268a0021636f6d6d616e64
+============================================================
+[*] Loading pcap file: good_traffic.pcap
+[*] Session key: 28b700329a268a0021636f6d6d616e64
+[*] Derived encryption key: 3106dd067f6bb265d50aca3110a06f3e
+
+[*] Processing 1155 packets...
+
+[+] Packet 18: dnscat.28b700329a268a0021636f6d6d616e642028426573742d4b6f6d702900
+    Extracted hex data: 28b700329a268a0021636f6d6d616e642028426573742d4b6f6d702900
+    Encrypted bytes: b'(\xb7\x002\x9a&\x8a\x00!command (Be'... (length: 29)
+    ⚠️ Data length 29 not multiple of 16, skipping
+
+[+] Packet 20: dnscat.52d101329a268a1a31
+    Extracted hex data: 52d101329a268a1a31
+    Encrypted bytes: b'R\xd1\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 22: dnscat.21f401329a268a1a31
+    Extracted hex data: 21f401329a268a1a31
+    Encrypted bytes: b'!\xf4\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 24: dnscat.395601329a268a1a31
+    Extracted hex data: 395601329a268a1a31
+    Encrypted bytes: b'9V\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 26: dnscat.059501329a268a1a31
+    Extracted hex data: 059501329a268a1a31
+    Encrypted bytes: b'\x05\x95\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 28: dnscat.53bc01329a268a1a31
+    Extracted hex data: 53bc01329a268a1a31
+    Encrypted bytes: b'S\xbc\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 34: dnscat.1f2a01329a268a1a31
+    Extracted hex data: 1f2a01329a268a1a31
+    Encrypted bytes: b'\x1f*\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 36: dnscat.098d01329a268a1a31
+    Extracted hex data: 098d01329a268a1a31
+    Encrypted bytes: b'\t\x8d\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 38: dnscat.497501329a268a1a31
+    Extracted hex data: 497501329a268a1a31
+    Encrypted bytes: b'Iu\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 40: dnscat.759e01329a268a1a31
+    Extracted hex data: 759e01329a268a1a31
+    Encrypted bytes: b'u\x9e\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 42: dnscat.5f9101329a268a1a31
+    Extracted hex data: 5f9101329a268a1a31
+    Encrypted bytes: b'_\x91\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 44: dnscat.517a01329a268a1a31
+    Extracted hex data: 517a01329a268a1a31
+    Encrypted bytes: b'Qz\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 46: dnscat.090101329a268a1a31
+    Extracted hex data: 090101329a268a1a31
+    Encrypted bytes: b'\t\x01\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 48: dnscat.020001329a268a1a31
+    Extracted hex data: 020001329a268a1a31
+    Encrypted bytes: b'\x02\x00\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 50: dnscat.719901329a268a1a31
+    Extracted hex data: 719901329a268a1a31
+    Encrypted bytes: b'q\x99\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 52: dnscat.608b01329a268a1a31
+    Extracted hex data: 608b01329a268a1a31
+    Encrypted bytes: b'`\x8b\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 54: dnscat.2aef01329a268a1a31
+    Extracted hex data: 2aef01329a268a1a31
+    Encrypted bytes: b'*\xef\x012\x9a&\x8a\x1a1'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 56: dnscat.5200005e3526fa0001636d642e6578652028426573742d4b6f6d702900
+    Extracted hex data: 5200005e3526fa0001636d642e6578652028426573742d4b6f6d702900
+    Encrypted bytes: b'R\x00\x00^5&\xfa\x00\x01cmd.exe (Be'... (length: 29)
+    ⚠️ Data length 29 not multiple of 16, skipping
+
+[+] Packet 58: dnscat.203401329a268a1a3f00000006800100015e35
+    Extracted hex data: 203401329a268a1a3f00000006800100015e35
+    Encrypted bytes: b' 4\x012\x9a&\x8a\x1a?\x00\x00\x00\x06\x80\x01\x00\x01^5'... (length: 19)
+    ⚠️ Data length 19 not multiple of 16, skipping
+
+[+] Packet 60: dnscat.64ba015e3526fa20d44d6963726f736f66742057696e646f7773205b5665.7273696f6e2031302e302e31383336332e3434395d0d0a286329208aaee0.afaee0a0e6a8ef208ca0a9aae0aee1aee4e220284d6963726f736f667420.436f72706f726174696f6e292c20323031392e2082e1a520af
+    Extracted hex data: 64ba015e3526fa20d44d6963726f736f66742057696e646f7773205b5665
+    Encrypted bytes: b'd\xba\x01^5&\xfa \xd4Microsoft W'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 62: dnscat.5b5801329a26941a3f
+    Extracted hex data: 5b5801329a26941a3f
+    Encrypted bytes: b'[X\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 64: dnscat.4a66015e35276420d4e0a0a2a020a7a0e9a8e9a5adeb2e0d0a0d0a433a5c.55736572735c41646d696e5c446f776e6c6f6164733e
+    Extracted hex data: 4a66015e35276420d4e0a0a2a020a7a0e9a8e9a5adeb2e0d0a0d0a433a5c
+    Encrypted bytes: b"Jf\x01^5'd \xd4\xe0\xa0\xa2\xa0 \xa7\xa0\xe9\xa8\xe9\xa5"... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 66: dnscat.2f8f015e35278f20d4
+    Extracted hex data: 2f8f015e35278f20d4
+    Encrypted bytes: b"/\x8f\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 68: dnscat.73fd01329a26941a3f
+    Extracted hex data: 73fd01329a26941a3f
+    Encrypted bytes: b's\xfd\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 70: dnscat.6ef5015e35278f20d4
+    Extracted hex data: 6ef5015e35278f20d4
+    Encrypted bytes: b"n\xf5\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 73: dnscat.322c01329a26941a3f
+    Extracted hex data: 322c01329a26941a3f
+    Encrypted bytes: b'2,\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 75: dnscat.7a4c015e35278f20d4
+    Extracted hex data: 7a4c015e35278f20d4
+    Encrypted bytes: b"zL\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 77: dnscat.758e01329a26941a3f
+    Extracted hex data: 758e01329a26941a3f
+    Encrypted bytes: b'u\x8e\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 79: dnscat.7fa6015e35278f20d4
+    Extracted hex data: 7fa6015e35278f20d4
+    Encrypted bytes: b"\x7f\xa6\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 81: dnscat.395801329a26941a3f
+    Extracted hex data: 395801329a26941a3f
+    Encrypted bytes: b'9X\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 83: dnscat.0a48015e35278f20d4
+    Extracted hex data: 0a48015e35278f20d4
+    Encrypted bytes: b"\nH\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 85: dnscat.589d01329a26941a3f
+    Extracted hex data: 589d01329a26941a3f
+    Encrypted bytes: b'X\x9d\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 87: dnscat.414a015e35278f20d4
+    Extracted hex data: 414a015e35278f20d4
+    Encrypted bytes: b"AJ\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 89: dnscat.127901329a26941a3f
+    Extracted hex data: 127901329a26941a3f
+    Encrypted bytes: b'\x12y\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 91: dnscat.3f97015e35278f20d4
+    Extracted hex data: 3f97015e35278f20d4
+    Encrypted bytes: b"?\x97\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 93: dnscat.1bbb01329a26941a3f
+    Extracted hex data: 1bbb01329a26941a3f
+    Encrypted bytes: b'\x1b\xbb\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 95: dnscat.2b63015e35278f20d4
+    Extracted hex data: 2b63015e35278f20d4
+    Encrypted bytes: b"+c\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 97: dnscat.5ce901329a26941a3f
+    Extracted hex data: 5ce901329a26941a3f
+    Encrypted bytes: b'\\\xe9\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 99: dnscat.6c2d015e35278f20d4
+    Extracted hex data: 6c2d015e35278f20d4
+    Encrypted bytes: b"l-\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 101: dnscat.71b701329a26941a3f
+    Extracted hex data: 71b701329a26941a3f
+    Encrypted bytes: b'q\xb7\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 103: dnscat.65e3015e35278f20d4
+    Extracted hex data: 65e3015e35278f20d4
+    Encrypted bytes: b"e\xe3\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 105: dnscat.3b4401329a26941a3f
+    Extracted hex data: 3b4401329a26941a3f
+    Encrypted bytes: b';D\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 107: dnscat.44cc015e35278f20d4
+    Extracted hex data: 44cc015e35278f20d4
+    Encrypted bytes: b"D\xcc\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 109: dnscat.68ba01329a26941a3f
+    Extracted hex data: 68ba01329a26941a3f
+    Encrypted bytes: b'h\xba\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 111: dnscat.7937015e35278f20d4
+    Extracted hex data: 7937015e35278f20d4
+    Encrypted bytes: b"y7\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 113: dnscat.522801329a26941a3f
+    Extracted hex data: 522801329a26941a3f
+    Encrypted bytes: b'R(\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 115: dnscat.532d015e35278f20d4
+    Extracted hex data: 532d015e35278f20d4
+    Encrypted bytes: b"S-\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 117: dnscat.6fa601329a26941a3f
+    Extracted hex data: 6fa601329a26941a3f
+    Encrypted bytes: b'o\xa6\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 119: dnscat.0d91015e35278f20d4
+    Extracted hex data: 0d91015e35278f20d4
+    Encrypted bytes: b"\r\x91\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 121: dnscat.2b2d01329a26941a3f
+    Extracted hex data: 2b2d01329a26941a3f
+    Encrypted bytes: b'+-\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 124: dnscat.5571015e35278f20d4
+    Extracted hex data: 5571015e35278f20d4
+    Encrypted bytes: b"Uq\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 127: dnscat.55aa01329a26941a3f
+    Extracted hex data: 55aa01329a26941a3f
+    Encrypted bytes: b'U\xaa\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 129: dnscat.4579015e35278f20d4
+    Extracted hex data: 4579015e35278f20d4
+    Encrypted bytes: b"Ey\x01^5'\x8f \xd4"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 131: dnscat.3827015e35278f20e3636420433a5c57696e646f77735c0a0d0a433a5c57.696e646f77733e
+    Extracted hex data: 3827015e35278f20e3636420433a5c57696e646f77735c0a0d0a433a5c57
+    Encrypted bytes: b"8'\x01^5'\x8f \xe3cd C:\\Windo"... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 133: dnscat.36c9015e3527ab20e3
+    Extracted hex data: 36c9015e3527ab20e3
+    Encrypted bytes: b"6\xc9\x01^5'\xab \xe3"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 135: dnscat.202901329a26941a3f
+    Extracted hex data: 202901329a26941a3f
+    Encrypted bytes: b' )\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 137: dnscat.7f96015e3527ab20e3
+    Extracted hex data: 7f96015e3527ab20e3
+    Encrypted bytes: b"\x7f\x96\x01^5'\xab \xe3"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 139: dnscat.729a01329a26941a3f
+    Extracted hex data: 729a01329a26941a3f
+    Encrypted bytes: b'r\x9a\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 141: dnscat.0d64015e3527ab20e3
+    Extracted hex data: 0d64015e3527ab20e3
+    Encrypted bytes: b"\rd\x01^5'\xab \xe3"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 143: dnscat.52cd015e3527ab20e76469720a2092aeac20a220e3e1e2e0aea9e1e2a2a5.204320ada520a8aca5a5e220aca5e2aaa82e0d0a2091a5e0a8a9adeba920.adaeaca5e020e2aeaca03a20454136322d374335340d0a0d0a2091aea4a5.e0a6a8acaea520afa0afaaa820433a5c57696e646f77730d0a
+    Extracted hex data: 52cd015e3527ab20e76469720a2092aeac20a220e3e1e2e0aea9e1e2a2a5
+    Encrypted bytes: b"R\xcd\x01^5'\xab \xe7dir\n \x92\xae\xac \xa2 "... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 145: dnscat.0bb9015e35281520e70d0a31342e30382e32303230202030313a33372020.20203c4449523e202020202020202020202e0d0a31342e30382e32303230.202030313a3337202020203c4449523e202020202020202020202e2e0d0a.31392e30332e32303139202030373a3532202020203c444952
+    Extracted hex data: 0bb9015e35281520e70d0a31342e30382e32303230202030313a33372020
+    Encrypted bytes: b'\x0b\xb9\x01^5(\x15 \xe7\r\n14.08.202'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 147: dnscat.537e015e35287f20e73e20202020202020202020616464696e730d0a3139.2e30332e32303139202030373a3532202020203c4449523e202020202020.20202020617070636f6d7061740d0a32352e31302e32303139202031333a.3330202020203c4449523e2020202020202020202061707070
+    Extracted hex data: 537e015e35287f20e73e20202020202020202020616464696e730d0a3139
+    Encrypted bytes: b'S~\x01^5(\x7f \xe7>          '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 149: dnscat.4998015e3528e920e7617463680d0a31392e30332e32303139202030373a.3532202020203c4449523e2020202020202020202041707052656164696e.6573730d0a31392e30332e32303139202031343a3434202020203c444952.3e20202020202020202020617373656d626c790d0a31372e31
+    Extracted hex data: 4998015e3528e920e7617463680d0a31392e30332e32303139202030373a
+    Encrypted bytes: b'I\x98\x01^5(\xe9 \xe7atch\r\n19.03'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 151: dnscat.05e601329a26941a3f
+    Extracted hex data: 05e601329a26941a3f
+    Encrypted bytes: b'\x05\xe6\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 153: dnscat.1f2a015e35295320e7312e32303139202030303a33352020202020202020.20202020202020323933206175746f6c6f676f6e2e6c6f670d0a32352e31.302e32303139202031333a3330202020203c4449523e2020202020202020.202062636173746476720d0a31392e30332e32303139202030
+    Extracted hex data: 1f2a015e35295320e7312e32303139202030303a33352020202020202020
+    Encrypted bytes: b'\x1f*\x01^5)S \xe71.2019  00:'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 155: dnscat.1f34015e3529bd20e7373a34332020202020202020202020203733ff3231.362062667376632e6578650d0a32362e31302e32303139202030303a3132.2020202020202020202020203139ff35333520426c616e6b2e69636f0d0a.31392e30332e32303139202030373a3532202020203c444952
+    Extracted hex data: 1f34015e3529bd20e7373a34332020202020202020202020203733ff3231
+    Encrypted bytes: b'\x1f4\x01^5)\xbd \xe77:43       '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 157: dnscat.0254015e352a2720e73e20202020202020202020426f6f740d0a31392e30.332e32303139202030373a3532202020203c4449523e2020202020202020.20204272616e64696e670d0a32362e31302e32303139202030303a303320.2020203c4449523e2020202020202020202043627354656d70
+    Extracted hex data: 0254015e352a2720e73e20202020202020202020426f6f740d0a31392e30
+    Encrypted bytes: b"\x02T\x01^5*' \xe7>          "... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 159: dnscat.6707015e352a9120e70d0a31392e30332e32303139202031353a30322020.20203c4449523e20202020202020202020436f6e7461696e6572730d0a31.372e31312e32303139202030303a3330202020203c4449523e2020202020.20202020204353430d0a31392e30332e32303139202030373a
+    Extracted hex data: 6707015e352a9120e70d0a31392e30332e32303139202031353a30322020
+    Encrypted bytes: b'g\x07\x01^5*\x91 \xe7\r\n19.03.201'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 161: dnscat.1436015e352afb20e73532202020203c4449523e20202020202020202020.437572736f72730d0a31372e31312e32303139202030303a323820202020.3c4449523e2020202020202020202064656275670d0a31392e30332e3230.3139202030373a3532202020203c4449523e20202020202020
+    Extracted hex data: 1436015e352afb20e73532202020203c4449523e20202020202020202020
+    Encrypted bytes: b'\x146\x01^5*\xfb \xe752    <DIR>'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 163: dnscat.41c7015e352b6520e7202020646961676e6f73746963730d0a32352e3130.2e32303139202031333a3330202020203c4449523e202020202020202020.2044696167547261636b0d0a31392e30332e32303139202031343a333520.2020203c4449523e202020202020202020204469676974616c
+    Extracted hex data: 41c7015e352b6520e7202020646961676e6f73746963730d0a32352e3130
+    Encrypted bytes: b'A\xc7\x01^5+e \xe7   diagnost'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 165: dnscat.0ac5015e352bcf20e74c6f636b65720d0a31372e31312e32303139202030.303a32382020202020202020202020202031ff31373120447463496e7374.616c6c2e6c6f670d0a31392e30332e32303139202031343a333520202020.3c4449523e20202020202020202020656e2d55530d0a32352e
+    Extracted hex data: 0ac5015e352bcf20e74c6f636b65720d0a31372e31312e32303139202030
+    Encrypted bytes: b'\n\xc5\x01^5+\xcf \xe7Locker\r\n17.'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 167: dnscat.7fe3015e352c3920e731302e32303139202031333a323820202020202020.202034ff363135ff363136206578706c6f7265722e6578650d0a31392e30.332e32303139202030373a3532202020203c4449523e2020202020202020.202047616d6542617250726573656e63655772697465720d0a
+    Extracted hex data: 7fe3015e352c3920e731302e32303139202031333a323820202020202020
+    Encrypted bytes: b'\x7f\xe3\x01^5,9 \xe710.2019  13'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 169: dnscat.40f8015e352ca320e731392e30332e32303139202030373a353220202020.3c4449523e20202020202020202020476c6f62616c697a6174696f6e0d0a.31392e30332e32303139202031343a3335202020203c4449523e20202020.20202020202048656c700d0a32352e31302e32303139202031
+    Extracted hex data: 40f8015e352ca320e731392e30332e32303139202030373a353220202020
+    Encrypted bytes: b'@\xf8\x01^5,\xa3 \xe719.03.2019 '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 171: dnscat.3766015e352d0d20e7333a323820202020202020202031ff303539ff3834.302048656c7050616e652e6578650d0a31392e30332e3230313920203037.3a34352020202020202020202020203138ff3433322068682e6578650d0a.31392e30332e32303139202030373a3532202020203c444952
+    Extracted hex data: 3766015e352d0d20e7333a323820202020202020202031ff303539ff3834
+    Encrypted bytes: b'7f\x01^5-\r \xe73:28       '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 173: dnscat.3d4701329a26941a3f
+    Extracted hex data: 3d4701329a26941a3f
+    Encrypted bytes: b'=G\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 175: dnscat.5f64015e352d7720e73e202020202020202020204964656e746974794352.4c0d0a31392e30332e32303139202031343a3335202020203c4449523e20.202020202020202020494d450d0a31372e31312e32303139202030303a32.38202020203c4449523e20202020202020202020496d6d6572
+    Extracted hex data: 5f64015e352d7720e73e202020202020202020204964656e746974794352
+    Encrypted bytes: b'_d\x01^5-w \xe7>          '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 177: dnscat.7167015e352de120e773697665436f6e74726f6c50616e656c0d0a32372e.30382e32303230202032303a3338202020203c4449523e20202020202020.202020494e460d0a31392e30332e32303139202030373a3532202020203c.4449523e20202020202020202020496e7075744d6574686f64
+    Extracted hex data: 7167015e352de120e773697665436f6e74726f6c50616e656c0d0a32372e
+    Encrypted bytes: b'qg\x01^5-\xe1 \xe7siveControl'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 179: dnscat.3d21015e352e4b20e70d0a31392e30332e32303139202030373a35322020.20203c4449523e202020202020202020204c32536368656d61730d0a3139.2e30332e32303139202030373a3532202020203c4449523e202020202020.202020204c6976654b65726e656c5265706f7274730d0a3134
+    Extracted hex data: 3d21015e352e4b20e70d0a31392e30332e32303139202030373a35322020
+    Encrypted bytes: b'=!\x01^5.K \xe7\r\n19.03.201'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 181: dnscat.278d015e352eb520e72e30382e32303230202030313a3236202020203c44.49523e202020202020202020204c6f67730d0a31372e31312e3230313920.2030303a32382020202020202020202020202031ff333738206c73617365.7475702e6c6f670d0a31392e30332e32303139202030373a34
+    Extracted hex data: 278d015e352eb520e72e30382e32303230202030313a3236202020203c44
+    Encrypted bytes: b"'\x8d\x01^5.\xb5 \xe7.08.2020  0"... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 183: dnscat.010d015e352f1f20e7342020202020202020202020203433ff313331206d.69622e62696e0d0a31392e30332e32303139202030373a3532202020203c.4449523e202020202020202020204d6963726f736f66742e4e45540d0a31.392e30332e32303139202030373a3532202020203c4449523e
+    Extracted hex data: 010d015e352f1f20e7342020202020202020202020203433ff313331206d
+    Encrypted bytes: b'\x01\r\x01^5/\x1f \xe74          '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 185: dnscat.50a0015e352f8920e7202020202020202020204d6967726174696f6e0d0a.31392e30332e32303139202030373a3532202020203c4449523e20202020.2020202020204d6f64656d4c6f67730d0a31392e30332e32303139202030.373a34352020202020202020202020313831ff323438206e6f
+    Extracted hex data: 50a0015e352f8920e7202020202020202020204d6967726174696f6e0d0a
+    Encrypted bytes: b'P\xa0\x01^5/\x89 \xe7          M'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 187: dnscat.45e3015e352ff320e774657061642e6578650d0a31392e30332e32303139.202031343a3336202020203c4449523e202020202020202020204f43520d.0a31392e30332e32303139202030373a3533202020203c4449523e202020.202020202020204f66666c696e65205765622050616765730d
+    Extracted hex data: 45e3015e352ff320e774657061642e6578650d0a31392e30332e32303139
+    Encrypted bytes: b'E\xe3\x01^5/\xf3 \xe7tepad.exe\r\n'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 189: dnscat.0414015e35305d20e70a31372e31312e32303139202030303a3238202020.203c4449523e2020202020202020202050616e746865720d0a31392e3033.2e32303139202030373a3532202020203c4449523e202020202020202020.20506572666f726d616e63650d0a31342e30382e3230323020
+    Extracted hex data: 0414015e35305d20e70a31372e31312e32303139202030303a3238202020
+    Encrypted bytes: b'\x04\x14\x01^50] \xe7\n17.11.2019'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 191: dnscat.0e91015e3530c720e72030313a3337202020202020202020202020202020.333136205046524f2e6c6f670d0a31392e30332e32303139202030373a35.32202020203c4449523e20202020202020202020504c410d0a32362e3130.2e32303139202030303a3032202020203c4449523e20202020
+    Extracted hex data: 0e91015e3530c720e72030313a3337202020202020202020202020202020
+    Encrypted bytes: b'\x0e\x91\x01^50\xc7 \xe7 01:37     '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 193: dnscat.4d74015e35313120e7202020202020506f6c696379446566696e6974696f.6e730d0a31342e30382e32303230202030313a3338202020203c4449523e.2020202020202020202050726566657463680d0a31372e31312e32303139.202030303a3238202020203c4449523e202020202020202020
+    Extracted hex data: 4d74015e35313120e7202020202020506f6c696379446566696e6974696f
+    Encrypted bytes: b'Mt\x01^511 \xe7      Polic'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 195: dnscat.6faf01329a26941a3f
+    Extracted hex data: 6faf01329a26941a3f
+    Encrypted bytes: b'o\xaf\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 197: dnscat.2cc4015e35319b20e7205072696e744469616c6f670d0a31392e30332e32.303139202030373a34362020202020202020202020203334ff3932352050.726f66657373696f6e616c2e786d6c0d0a30372e31302e32303139202030.353a3539202020203c4449523e202020202020202020205072
+    Extracted hex data: 2cc4015e35319b20e7205072696e744469616c6f670d0a31392e30332e32
+    Encrypted bytes: b',\xc4\x01^51\x9b \xe7 PrintDialo'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 199: dnscat.57b3015e35320520e76f766973696f6e696e670d0a31392e30332e323031.39202030373a34352020202020202020202020333538ff34303020726567.656469742e6578650d0a31342e30382e32303230202030313a3337202020.203c4449523e20202020202020202020526567697374726174
+    Extracted hex data: 57b3015e35320520e76f766973696f6e696e670d0a31392e30332e323031
+    Encrypted bytes: b'W\xb3\x01^52\x05 \xe7ovisioning\r'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 201: dnscat.4634015e35326f20e7696f6e0d0a31392e30332e32303139202031343a33.37202020203c4449523e2020202020202020202052656d6f74655061636b.616765730d0a31392e30332e32303139202030373a3532202020203c4449.523e2020202020202020202072657363616368650d0a31392e
+    Extracted hex data: 4634015e35326f20e7696f6e0d0a31392e30332e32303139202031343a33
+    Encrypted bytes: b'F4\x01^52o \xe7ion\r\n19.03.'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 203: dnscat.751f015e3532d920e730332e32303139202030373a3532202020203c4449.523e202020202020202020205265736f75726365730d0a31392e30332e32.303139202031343a3335202020203c4449523e2020202020202020202072.752d52550d0a31392e30332e32303139202030373a35322020
+    Extracted hex data: 751f015e3532d920e730332e32303139202030373a3532202020203c4449
+    Encrypted bytes: b'u\x1f\x01^52\xd9 \xe703.2019  07'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 205: dnscat.72e8015e35334320e720203c4449523e2020202020202020202053636843.616368650d0a31392e30332e32303139202031343a3337202020203c4449.523e20202020202020202020736368656d61730d0a31392e30332e323031.39202031343a3337202020203c4449523e2020202020202020
+    Extracted hex data: 72e8015e35334320e720203c4449523e2020202020202020202053636843
+    Encrypted bytes: b'r\xe8\x01^53C \xe7  <DIR>    '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 207: dnscat.1c5f015e3533ad20e7202073656375726974790d0a31372e31312e323031.39202030303a3238202020203c4449523e20202020202020202020536572.7669636550726f66696c65730d0a31392e30332e32303139202030373a35.32202020203c4449523e202020202020202020205365727669
+    Extracted hex data: 1c5f015e3533ad20e7202073656375726974790d0a31372e31312e323031
+    Encrypted bytes: b'\x1c_\x01^53\xad \xe7  security\r'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 209: dnscat.07bc015e35341720e7636553746174650d0a31392e30332e323031392020.31343a3336202020203c4449523e20202020202020202020736572766963.696e670d0a31392e30332e32303139202030373a3536202020203c444952.3e2020202020202020202053657475700d0a31372e31312e32
+    Extracted hex data: 07bc015e35341720e7636553746174650d0a31392e30332e323031392020
+    Encrypted bytes: b'\x07\xbc\x01^54\x17 \xe7ceState\r\n19'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 211: dnscat.5719015e35348120e7303139202030303a33352020202020202020202020.202031ff3831342073657475706163742e6c6f670d0a31372e31312e3230.3139202030303a3335202020202020202020202020202020202030207365.7475706572722e6c6f670d0a32352e31302e32303139202031
+    Extracted hex data: 5719015e35348120e7303139202030303a33352020202020202020202020
+    Encrypted bytes: b'W\x19\x01^54\x81 \xe7019  00:35 '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 213: dnscat.0850015e3534eb20e7333a3330202020203c4449523e2020202020202020.20205368656c6c436f6d706f6e656e74730d0a32352e31302e3230313920.2031333a3330202020203c4449523e202020202020202020205368656c6c.457870657269656e6365730d0a31392e30332e323031392020
+    Extracted hex data: 0850015e3534eb20e7333a3330202020203c4449523e2020202020202020
+    Encrypted bytes: b'\x08P\x01^54\xeb \xe73:30    <DI'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 215: dnscat.050901329a26941a3f
+    Extracted hex data: 050901329a26941a3f
+    Encrypted bytes: b'\x05\t\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 217: dnscat.6bbd015e35355520e730373a3532202020203c4449523e20202020202020.202020534b420d0a31372e31312e32303139202030303a3239202020203c.4449523e20202020202020202020536f6674776172654469737472696275.74696f6e0d0a31392e30332e32303139202030373a35322020
+    Extracted hex data: 6bbd015e35355520e730373a3532202020203c4449523e20202020202020
+    Encrypted bytes: b'k\xbd\x01^55U \xe707:52    <D'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 219: dnscat.3ad2015e3535bf20e720203c4449523e2020202020202020202053706565.63680d0a31392e30332e32303139202030373a3532202020203c4449523e.202020202020202020205370656563685f4f6e65436f72650d0a30372e31.302e32303139202030353a3535202020202020202020202031
+    Extracted hex data: 3ad2015e3535bf20e720203c4449523e2020202020202020202053706565
+    Encrypted bytes: b':\xd2\x01^55\xbf \xe7  <DIR>    '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 221: dnscat.65c3015e35362920e73332ff3039362073706c776f7736342e6578650d0a.31392e30332e32303139202030373a3532202020203c4449523e20202020.20202020202053797374656d0d0a31392e30332e32303139202030373a34.39202020202020202020202020202020323139207379737465
+    Extracted hex data: 65c3015e35362920e73332ff3039362073706c776f7736342e6578650d0a
+    Encrypted bytes: b'e\xc3\x01^56) \xe732\xff096 splw'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 223: dnscat.6545015e35369320e76d2e696e690d0a32372e30382e3230323020203230.3a3338202020203c4449523e2020202020202020202053797374656d3332.0d0a31392e30332e32303139202031343a3337202020203c4449523e2020.202020202020202053797374656d417070730d0a32362e3130
+    Extracted hex data: 6545015e35369320e76d2e696e690d0a32372e30382e3230323020203230
+    Encrypted bytes: b'eE\x01^56\x93 \xe7m.ini\r\n27.0'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 225: dnscat.224f015e3536fd20e72e32303139202030303a3032202020203c4449523e.2020202020202020202053797374656d5265736f75726365730d0a31342e.30382e32303230202030313a3336202020203c4449523e20202020202020.202020537973574f5736340d0a31392e30332e323031392020
+    Extracted hex data: 224f015e3536fd20e72e32303139202030303a3032202020203c4449523e
+    Encrypted bytes: b'"O\x01^56\xfd \xe7.2019  00:0'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 227: dnscat.3808015e35376720e730373a3532202020203c4449523e20202020202020.202020544150490d0a31372e31312e32303139202030303a323820202020.3c4449523e202020202020202020205461736b730d0a32372e30382e3230.3230202032313a3535202020203c4449523e20202020202020
+    Extracted hex data: 3808015e35376720e730373a3532202020203c4449523e20202020202020
+    Encrypted bytes: b'8\x08\x01^57g \xe707:52    <D'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 229: dnscat.5aaa015e3537d120e720202054656d700d0a30372e31302e323031392020.30353a3539202020203c4449523e2020202020202020202054657874496e.7075740d0a31392e30332e32303139202030373a3532202020203c444952.3e2020202020202020202074726163696e670d0a31392e3033
+    Extracted hex data: 5aaa015e3537d120e720202054656d700d0a30372e31302e323031392020
+    Encrypted bytes: b'Z\xaa\x01^57\xd1 \xe7   Temp\r\n07'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 231: dnscat.24a8015e35383b20e72e32303139202030373a3533202020203c4449523e.20202020202020202020747761696e5f33320d0a31392e30332e32303139.202030373a34362020202020202020202020203634ff3531322074776169.6e5f33322e646c6c0d0a31392e30332e32303139202030373a
+    Extracted hex data: 24a8015e35383b20e72e32303139202030373a3533202020203c4449523e
+    Encrypted bytes: b'$\xa8\x01^58; \xe7.2019  07:5'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 233: dnscat.72b6015e3538a520e73532202020203c4449523e20202020202020202020.5673730d0a31392e30332e32303139202030373a3532202020203c444952.3e20202020202020202020576161530d0a31392e30332e32303139202030.373a3532202020203c4449523e202020202020202020205765
+    Extracted hex data: 72b6015e3538a520e73532202020203c4449523e20202020202020202020
+    Encrypted bytes: b'r\xb6\x01^58\xa5 \xe752    <DIR>'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 235: dnscat.137a01329a26941a3f
+    Extracted hex data: 137a01329a26941a3f
+    Encrypted bytes: b'\x13z\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 237: dnscat.31fa015e35390f20e7620d0a31392e30332e32303139202030373a343920.20202020202020202020202020202039322077696e2e696e690d0a32372e.30382e32303230202032313a303920202020202020202020202020202032.37362057696e646f77735570646174652e6c6f670d0a31392e
+    Extracted hex data: 31fa015e35390f20e7620d0a31392e30332e32303139202030373a343920
+    Encrypted bytes: b'1\xfa\x01^59\x0f \xe7b\r\n19.03.20'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 239: dnscat.69dd015e35397920e730332e32303139202030373a343620202020202020.20202020203131ff3737362077696e686c7033322e6578650d0a31372e31.312e32303139202030303a3238202020203c4449523e2020202020202020.202057696e5378530d0a31392e30332e32303139202031343a
+    Extracted hex data: 69dd015e35397920e730332e32303139202030373a343620202020202020
+    Encrypted bytes: b'i\xdd\x01^59y \xe703.2019  07'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 241: dnscat.7f73015e3539e320e733372020202020202020202020333136ff36343020.574d5379735072392e7072780d0a31392e30332e32303139202030373a34.352020202020202020202020203131ff3236342077726974652e6578650d.0a2020202020202020202020202020323320e4a0a9abaea220
+    Extracted hex data: 7f73015e3539e320e733372020202020202020202020333136ff36343020
+    Encrypted bytes: b'\x7fs\x01^59\xe3 \xe737         '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 243: dnscat.21ac015e353a4d20e7202020202036ff393436ff31393020a1a0a9e20d0a.2020202020202020202020202020373520afa0afaeaa2020323631ff3938.30ff323931ff30373220a1a0a9e220e1a2aea1aea4adae0d0a0d0a433a5c.57696e646f77733e
+    Extracted hex data: 21ac015e353a4d20e7202020202036ff393436ff31393020a1a0a9e20d0a
+    Encrypted bytes: b'!\xac\x01^5:M \xe7     6\xff946\xff'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 245: dnscat.1861015e353aa620e7
+    Extracted hex data: 1861015e353aa620e7
+    Encrypted bytes: b'\x18a\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 249: dnscat.640a01329a26941a3f
+    Extracted hex data: 640a01329a26941a3f
+    Encrypted bytes: b'd\n\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 251: dnscat.598d015e353aa620e7
+    Extracted hex data: 598d015e353aa620e7
+    Encrypted bytes: b'Y\x8d\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 253: dnscat.4dd801329a26941a3f
+    Extracted hex data: 4dd801329a26941a3f
+    Encrypted bytes: b'M\xd8\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 255: dnscat.2fb5015e353aa620e7
+    Extracted hex data: 2fb5015e353aa620e7
+    Encrypted bytes: b'/\xb5\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 257: dnscat.4e6401329a26941a3f
+    Extracted hex data: 4e6401329a26941a3f
+    Encrypted bytes: b'Nd\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 259: dnscat.6f21015e353aa620e7
+    Extracted hex data: 6f21015e353aa620e7
+    Encrypted bytes: b'o!\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 261: dnscat.013701329a26941a3f
+    Extracted hex data: 013701329a26941a3f
+    Encrypted bytes: b'\x017\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 263: dnscat.7b99015e353aa620e7
+    Extracted hex data: 7b99015e353aa620e7
+    Encrypted bytes: b'{\x99\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 265: dnscat.0a1101329a26941a3f
+    Extracted hex data: 0a1101329a26941a3f
+    Encrypted bytes: b'\n\x11\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 267: dnscat.2127015e353aa620e7
+    Extracted hex data: 2127015e353aa620e7
+    Encrypted bytes: b"!'\x01^5:\xa6 \xe7"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 269: dnscat.667101329a26941a3f
+    Extracted hex data: 667101329a26941a3f
+    Encrypted bytes: b'fq\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 271: dnscat.1370015e353aa620e7
+    Extracted hex data: 1370015e353aa620e7
+    Encrypted bytes: b'\x13p\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 273: dnscat.6a3d01329a26941a3f
+    Extracted hex data: 6a3d01329a26941a3f
+    Encrypted bytes: b'j=\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 275: dnscat.0c87015e353aa620e7
+    Extracted hex data: 0c87015e353aa620e7
+    Encrypted bytes: b'\x0c\x87\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 277: dnscat.456101329a26941a3f
+    Extracted hex data: 456101329a26941a3f
+    Encrypted bytes: b'Ea\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 280: dnscat.4586015e353aa620e7
+    Extracted hex data: 4586015e353aa620e7
+    Encrypted bytes: b'E\x86\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 282: dnscat.0e7f01329a26941a3f
+    Extracted hex data: 0e7f01329a26941a3f
+    Encrypted bytes: b'\x0e\x7f\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 284: dnscat.525b015e353aa620e7
+    Extracted hex data: 525b015e353aa620e7
+    Encrypted bytes: b'R[\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 286: dnscat.730d01329a26941a3f
+    Extracted hex data: 730d01329a26941a3f
+    Encrypted bytes: b's\r\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 288: dnscat.177c015e353aa620e7
+    Extracted hex data: 177c015e353aa620e7
+    Encrypted bytes: b'\x17|\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 290: dnscat.676d01329a26941a3f
+    Extracted hex data: 676d01329a26941a3f
+    Encrypted bytes: b'gm\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 292: dnscat.6b85015e353aa620e7
+    Extracted hex data: 6b85015e353aa620e7
+    Encrypted bytes: b'k\x85\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 294: dnscat.11e401329a26941a3f
+    Extracted hex data: 11e401329a26941a3f
+    Encrypted bytes: b'\x11\xe4\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 296: dnscat.4ff4015e353aa620e7
+    Extracted hex data: 4ff4015e353aa620e7
+    Encrypted bytes: b'O\xf4\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 298: dnscat.417d01329a26941a3f
+    Extracted hex data: 417d01329a26941a3f
+    Encrypted bytes: b'A}\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 300: dnscat.5374015e353aa620e7
+    Extracted hex data: 5374015e353aa620e7
+    Encrypted bytes: b'St\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 302: dnscat.1e3901329a26941a3f
+    Extracted hex data: 1e3901329a26941a3f
+    Encrypted bytes: b'\x1e9\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 304: dnscat.757d015e353aa620e7
+    Extracted hex data: 757d015e353aa620e7
+    Encrypted bytes: b'u}\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 306: dnscat.721e01329a26941a3f
+    Extracted hex data: 721e01329a26941a3f
+    Encrypted bytes: b'r\x1e\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 308: dnscat.1632015e353aa620e7
+    Extracted hex data: 1632015e353aa620e7
+    Encrypted bytes: b'\x162\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 310: dnscat.02ff01329a26941a3f
+    Extracted hex data: 02ff01329a26941a3f
+    Encrypted bytes: b'\x02\xff\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 314: dnscat.6ec1015e353aa620e7
+    Extracted hex data: 6ec1015e353aa620e7
+    Encrypted bytes: b'n\xc1\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 316: dnscat.031601329a26941a3f
+    Extracted hex data: 031601329a26941a3f
+    Encrypted bytes: b'\x03\x16\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 318: dnscat.0db2015e353aa620e7
+    Extracted hex data: 0db2015e353aa620e7
+    Encrypted bytes: b'\r\xb2\x01^5:\xa6 \xe7'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 320: dnscat.32c6015e353aa620fe6d6f72652057696e646f77735570646174652e6c6f.670a57696e646f777320557064617465206c6f677320617265206e6f7720.67656e657261746564207573696e672045545720284576656e7420547261.63696e6720666f722057696e646f7773292e0d0a506c656173
+    Extracted hex data: 32c6015e353aa620fe6d6f72652057696e646f77735570646174652e6c6f
+    Encrypted bytes: b'2\xc6\x01^5:\xa6 \xfemore Window'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 322: dnscat.2fec015e353b1020fe652072756e20746865204765742d57696e646f7773.5570646174654c6f6720506f7765725368656c6c20636f6d6d616e642074.6f20636f6e76657274204554572074726163657320696e746f2061207265.616461626c652057696e646f77735570646174652e6c6f672e
+    Extracted hex data: 2fec015e353b1020fe652072756e20746865204765742d57696e646f7773
+    Encrypted bytes: b'/\xec\x01^5;\x10 \xfee run the G'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 324: dnscat.781e015e353b7a20fe0d0a0d0a0d0a466f72206d6f726520696e666f726d.6174696f6e2c20706c656173652076697369742068747470733a2f2f676f.2e6d6963726f736f66742e636f6d2f66776c696e6b2f3f4c696e6b49643d.3531383334350d0a0d0a433a5c57696e646f77733e
+    Extracted hex data: 781e015e353b7a20fe0d0a0d0a0d0a466f72206d6f726520696e666f726d
+    Encrypted bytes: b'x\x1e\x01^5;z \xfe\r\n\r\n\r\nFor m'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 326: dnscat.5a5701329a26941a3f
+    Extracted hex data: 5a5701329a26941a3f
+    Encrypted bytes: b'ZW\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 328: dnscat.00f5015e353be020fe
+    Extracted hex data: 00f5015e353be020fe
+    Encrypted bytes: b'\x00\xf5\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 330: dnscat.215f01329a26941a3f
+    Extracted hex data: 215f01329a26941a3f
+    Encrypted bytes: b'!_\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 332: dnscat.0abb015e353be020fe
+    Extracted hex data: 0abb015e353be020fe
+    Encrypted bytes: b'\n\xbb\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 334: dnscat.62c701329a26941a3f
+    Extracted hex data: 62c701329a26941a3f
+    Encrypted bytes: b'b\xc7\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 336: dnscat.3749015e353be020fe
+    Extracted hex data: 3749015e353be020fe
+    Encrypted bytes: b'7I\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 338: dnscat.2b9501329a26941a3f
+    Extracted hex data: 2b9501329a26941a3f
+    Encrypted bytes: b'+\x95\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 340: dnscat.785f015e353be020fe
+    Extracted hex data: 785f015e353be020fe
+    Encrypted bytes: b'x_\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 342: dnscat.66f101329a26941a3f
+    Extracted hex data: 66f101329a26941a3f
+    Encrypted bytes: b'f\xf1\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 344: dnscat.238e015e353be020fe
+    Extracted hex data: 238e015e353be020fe
+    Encrypted bytes: b'#\x8e\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 346: dnscat.145401329a26941a3f
+    Extracted hex data: 145401329a26941a3f
+    Encrypted bytes: b'\x14T\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 348: dnscat.3ebf015e353be020fe
+    Extracted hex data: 3ebf015e353be020fe
+    Encrypted bytes: b'>\xbf\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 350: dnscat.725c01329a26941a3f
+    Extracted hex data: 725c01329a26941a3f
+    Encrypted bytes: b'r\\\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 352: dnscat.199b015e353be020fe
+    Extracted hex data: 199b015e353be020fe
+    Encrypted bytes: b'\x19\x9b\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 354: dnscat.191801329a26941a3f
+    Extracted hex data: 191801329a26941a3f
+    Encrypted bytes: b'\x19\x18\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 356: dnscat.6276015e353be020fe
+    Extracted hex data: 6276015e353be020fe
+    Encrypted bytes: b'bv\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 358: dnscat.39b201329a26941a3f
+    Extracted hex data: 39b201329a26941a3f
+    Encrypted bytes: b'9\xb2\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 360: dnscat.2593015e353be020fe
+    Extracted hex data: 2593015e353be020fe
+    Encrypted bytes: b'%\x93\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 362: dnscat.72bc01329a26941a3f
+    Extracted hex data: 72bc01329a26941a3f
+    Encrypted bytes: b'r\xbc\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 364: dnscat.1bda015e353be020fe
+    Extracted hex data: 1bda015e353be020fe
+    Encrypted bytes: b'\x1b\xda\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 366: dnscat.2f8c01329a26941a3f
+    Extracted hex data: 2f8c01329a26941a3f
+    Encrypted bytes: b'/\x8c\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 368: dnscat.6a59015e353be020fe
+    Extracted hex data: 6a59015e353be020fe
+    Encrypted bytes: b'jY\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 370: dnscat.2e6901329a26941a3f
+    Extracted hex data: 2e6901329a26941a3f
+    Encrypted bytes: b'.i\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 372: dnscat.061e015e353be020fe
+    Extracted hex data: 061e015e353be020fe
+    Encrypted bytes: b'\x06\x1e\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 374: dnscat.5c7e01329a26941a3f
+    Extracted hex data: 5c7e01329a26941a3f
+    Encrypted bytes: b'\\~\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 376: dnscat.6854015e353be020fe
+    Extracted hex data: 6854015e353be020fe
+    Encrypted bytes: b'hT\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 378: dnscat.07c301329a26941a3f
+    Extracted hex data: 07c301329a26941a3f
+    Encrypted bytes: b'\x07\xc3\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 380: dnscat.2ca9015e353be020fe
+    Extracted hex data: 2ca9015e353be020fe
+    Encrypted bytes: b',\xa9\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 382: dnscat.466501329a26941a3f
+    Extracted hex data: 466501329a26941a3f
+    Encrypted bytes: b'Fe\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 384: dnscat.2864015e353be020fe
+    Extracted hex data: 2864015e353be020fe
+    Encrypted bytes: b'(d\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 386: dnscat.305201329a26941a3f
+    Extracted hex data: 305201329a26941a3f
+    Encrypted bytes: b'0R\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 388: dnscat.12b5015e353be020fe
+    Extracted hex data: 12b5015e353be020fe
+    Encrypted bytes: b'\x12\xb5\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 390: dnscat.72f001329a26941a3f
+    Extracted hex data: 72f001329a26941a3f
+    Encrypted bytes: b'r\xf0\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 392: dnscat.0723015e353be020fe
+    Extracted hex data: 0723015e353be020fe
+    Encrypted bytes: b'\x07#\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 396: dnscat.302e01329a26941a3f
+    Extracted hex data: 302e01329a26941a3f
+    Encrypted bytes: b'0.\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 398: dnscat.112a015e353be020fe
+    Extracted hex data: 112a015e353be020fe
+    Encrypted bytes: b'\x11*\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 400: dnscat.516c01329a26941a3f
+    Extracted hex data: 516c01329a26941a3f
+    Encrypted bytes: b'Ql\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 402: dnscat.1c60015e353be020fe
+    Extracted hex data: 1c60015e353be020fe
+    Encrypted bytes: b'\x1c`\x01^5;\xe0 \xfe'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 404: dnscat.4bee015e353be021196364202e2e5c55736572735c41646d696e5c446573.6b746f705c0a0d0a433a5c55736572735c41646d696e5c4465736b746f70.3e
+    Extracted hex data: 4bee015e353be021196364202e2e5c55736572735c41646d696e5c446573
+    Encrypted bytes: b'K\xee\x01^5;\xe0!\x19cd ..\\Users'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 406: dnscat.26bc015e353c142119
+    Extracted hex data: 26bc015e353c142119
+    Encrypted bytes: b'&\xbc\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 408: dnscat.17d401329a26941a3f
+    Extracted hex data: 17d401329a26941a3f
+    Encrypted bytes: b'\x17\xd4\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 410: dnscat.7ad8015e353c142119
+    Extracted hex data: 7ad8015e353c142119
+    Encrypted bytes: b'z\xd8\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 412: dnscat.1bd101329a26941a3f
+    Extracted hex data: 1bd101329a26941a3f
+    Encrypted bytes: b'\x1b\xd1\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 414: dnscat.1642015e353c142119
+    Extracted hex data: 1642015e353c142119
+    Encrypted bytes: b'\x16B\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 416: dnscat.5f1801329a26941a3f
+    Extracted hex data: 5f1801329a26941a3f
+    Encrypted bytes: b'_\x18\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 418: dnscat.4436015e353c142119
+    Extracted hex data: 4436015e353c142119
+    Encrypted bytes: b'D6\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 420: dnscat.402d01329a26941a3f
+    Extracted hex data: 402d01329a26941a3f
+    Encrypted bytes: b'@-\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 422: dnscat.6f59015e353c142119
+    Extracted hex data: 6f59015e353c142119
+    Encrypted bytes: b'oY\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 426: dnscat.0aac01329a26941a3f
+    Extracted hex data: 0aac01329a26941a3f
+    Encrypted bytes: b'\n\xac\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 428: dnscat.4d4d015e353c142119
+    Extracted hex data: 4d4d015e353c142119
+    Encrypted bytes: b'MM\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 430: dnscat.5f1801329a26941a3f
+    Extracted hex data: 5f1801329a26941a3f
+    Encrypted bytes: b'_\x18\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 432: dnscat.5d39015e353c142119
+    Extracted hex data: 5d39015e353c142119
+    Encrypted bytes: b']9\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 434: dnscat.475401329a26941a3f
+    Extracted hex data: 475401329a26941a3f
+    Encrypted bytes: b'GT\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 436: dnscat.4e94015e353c142119
+    Extracted hex data: 4e94015e353c142119
+    Encrypted bytes: b'N\x94\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 438: dnscat.575501329a26941a3f
+    Extracted hex data: 575501329a26941a3f
+    Encrypted bytes: b'WU\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 440: dnscat.57d6015e353c142119
+    Extracted hex data: 57d6015e353c142119
+    Encrypted bytes: b'W\xd6\x01^5<\x14!\x19'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 443: dnscat.2d2d015e353c14212670696e6720382e382e382e380a0d0a8ea1aca5ad20.afa0aaa5e2a0aca820e120382e382e382e3820afae20e120333220a1a0a9.e2a0aca820a4a0adadebe53a0d0a
+    Extracted hex data: 2d2d015e353c14212670696e6720382e382e382e380a0d0a8ea1aca5ad20
+    Encrypted bytes: b'--\x01^5<\x14!&ping 8.8.8.'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 445: dnscat.5ce1015e353c552126
+    Extracted hex data: 5ce1015e353c552126
+    Encrypted bytes: b'\\\xe1\x01^5<U!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 447: dnscat.548101329a26941a3f
+    Extracted hex data: 548101329a26941a3f
+    Encrypted bytes: b'T\x81\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 449: dnscat.133a015e353c552126
+    Extracted hex data: 133a015e353c552126
+    Encrypted bytes: b'\x13:\x01^5<U!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 451: dnscat.50ff01329a26941a3f
+    Extracted hex data: 50ff01329a26941a3f
+    Encrypted bytes: b'P\xff\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 453: dnscat.2669015e353c552126
+    Extracted hex data: 2669015e353c552126
+    Encrypted bytes: b'&i\x01^5<U!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 455: dnscat.307e01329a26941a3f
+    Extracted hex data: 307e01329a26941a3f
+    Encrypted bytes: b'0~\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 551: dnscat.4921015e353c5521268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8.a4a0ada8ef20a4abef20a7a0afe0aee1a02e0d0a
+    Extracted hex data: 4921015e353c5521268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8
+    Encrypted bytes: b'I!\x01^5<U!&\x8f\xe0\xa5\xa2\xeb\xe8\xa5\xad \xa8\xad'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 553: dnscat.50c2015e353c7e2126
+    Extracted hex data: 50c2015e353c7e2126
+    Encrypted bytes: b'P\xc2\x01^5<~!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 555: dnscat.2ff801329a26941a3f
+    Extracted hex data: 2ff801329a26941a3f
+    Encrypted bytes: b'/\xf8\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 560: dnscat.4e1e015e353c7e2126
+    Extracted hex data: 4e1e015e353c7e2126
+    Encrypted bytes: b'N\x1e\x01^5<~!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 562: dnscat.38d601329a26941a3f
+    Extracted hex data: 38d601329a26941a3f
+    Encrypted bytes: b'8\xd6\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 564: dnscat.276d015e353c7e2126
+    Extracted hex data: 276d015e353c7e2126
+    Encrypted bytes: b"'m\x01^5<~!&"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 566: dnscat.0e6c01329a26941a3f
+    Extracted hex data: 0e6c01329a26941a3f
+    Encrypted bytes: b'\x0el\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 568: dnscat.5913015e353c7e2126
+    Extracted hex data: 5913015e353c7e2126
+    Encrypted bytes: b'Y\x13\x01^5<~!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 570: dnscat.794c01329a26941a3f
+    Extracted hex data: 794c01329a26941a3f
+    Encrypted bytes: b'yL\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 670: dnscat.5406015e353c7e2126
+    Extracted hex data: 5406015e353c7e2126
+    Encrypted bytes: b'T\x06\x01^5<~!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 672: dnscat.587701329a26941a3f
+    Extracted hex data: 587701329a26941a3f
+    Encrypted bytes: b'Xw\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 674: dnscat.1716015e353c7e21268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8.a4a0ada8ef20a4abef20a7a0afe0aee1a02e0d0a
+    Extracted hex data: 1716015e353c7e21268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8
+    Encrypted bytes: b'\x17\x16\x01^5<~!&\x8f\xe0\xa5\xa2\xeb\xe8\xa5\xad \xa8\xad'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 676: dnscat.7980015e353ca72126
+    Extracted hex data: 7980015e353ca72126
+    Encrypted bytes: b'y\x80\x01^5<\xa7!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 678: dnscat.1fe601329a26941a3f
+    Extracted hex data: 1fe601329a26941a3f
+    Encrypted bytes: b'\x1f\xe6\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 681: dnscat.4c95015e353ca72126
+    Extracted hex data: 4c95015e353ca72126
+    Encrypted bytes: b'L\x95\x01^5<\xa7!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 683: dnscat.365601329a26941a3f
+    Extracted hex data: 365601329a26941a3f
+    Encrypted bytes: b'6V\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 685: dnscat.4b0d015e353ca72126
+    Extracted hex data: 4b0d015e353ca72126
+    Encrypted bytes: b'K\r\x01^5<\xa7!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 687: dnscat.104c01329a26941a3f
+    Extracted hex data: 104c01329a26941a3f
+    Encrypted bytes: b'\x10L\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 689: dnscat.674a015e353ca72126
+    Extracted hex data: 674a015e353ca72126
+    Encrypted bytes: b'gJ\x01^5<\xa7!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 691: dnscat.452201329a26941a3f
+    Extracted hex data: 452201329a26941a3f
+    Encrypted bytes: b'E"\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 787: dnscat.1310015e353ca721268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8.a4a0ada8ef20a4abef20a7a0afe0aee1a02e0d0a
+    Extracted hex data: 1310015e353ca721268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8
+    Encrypted bytes: b'\x13\x10\x01^5<\xa7!&\x8f\xe0\xa5\xa2\xeb\xe8\xa5\xad \xa8\xad'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 789: dnscat.4f2401329a26941a3f
+    Extracted hex data: 4f2401329a26941a3f
+    Encrypted bytes: b'O$\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 791: dnscat.65a0015e353cd02126
+    Extracted hex data: 65a0015e353cd02126
+    Encrypted bytes: b'e\xa0\x01^5<\xd0!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 794: dnscat.3eda01329a26941a3f
+    Extracted hex data: 3eda01329a26941a3f
+    Encrypted bytes: b'>\xda\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 796: dnscat.3d3d015e353cd02126
+    Extracted hex data: 3d3d015e353cd02126
+    Encrypted bytes: b'==\x01^5<\xd0!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 798: dnscat.171901329a26941a3f
+    Extracted hex data: 171901329a26941a3f
+    Encrypted bytes: b'\x17\x19\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 800: dnscat.6fe0015e353cd02126
+    Extracted hex data: 6fe0015e353cd02126
+    Encrypted bytes: b'o\xe0\x01^5<\xd0!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 802: dnscat.5a1201329a26941a3f
+    Extracted hex data: 5a1201329a26941a3f
+    Encrypted bytes: b'Z\x12\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 804: dnscat.4d42015e353cd02126
+    Extracted hex data: 4d42015e353cd02126
+    Encrypted bytes: b'MB\x01^5<\xd0!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 900: dnscat.6ed801329a26941a3f
+    Extracted hex data: 6ed801329a26941a3f
+    Encrypted bytes: b'n\xd8\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 902: dnscat.688f015e353cd02126
+    Extracted hex data: 688f015e353cd02126
+    Encrypted bytes: b'h\x8f\x01^5<\xd0!&'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 904: dnscat.040801329a26941a3f
+    Extracted hex data: 040801329a26941a3f
+    Encrypted bytes: b'\x04\x08\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 906: dnscat.6a5b015e353cd021268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8.a4a0ada8ef20a4abef20a7a0afe0aee1a02e0d0a0d0a91e2a0e2a8e1e2a8.aaa02050696e6720a4abef20382e382e382e383a0d0a202020208fa0aaa5.e2aea23a20aee2afe0a0a2aba5adae203d20342c20afaeabe3
+    Extracted hex data: 6a5b015e353cd021268fe0a5a2ebe8a5ad20a8ade2a5e0a2a0ab20aea6a8
+    Encrypted bytes: b'j[\x01^5<\xd0!&\x8f\xe0\xa5\xa2\xeb\xe8\xa5\xad \xa8\xad'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 908: dnscat.3fa6015e353d3a2127e7a5adae203d20302c20afaee2a5e0efadae203d20.340d0a20202020283130302520afaee2a5e0ec290d0a0d0a433a5c557365.72735c41646d696e5c4465736b746f703e0a433a5c55736572735c41646d.696e5c4465736b746f703e
+    Extracted hex data: 3fa6015e353d3a2127e7a5adae203d20302c20afaee2a5e0efadae203d20
+    Encrypted bytes: b"?\xa6\x01^5=:!'\xe7\xa5\xad\xae = 0, \xaf"... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 910: dnscat.1bab015e353d962127
+    Extracted hex data: 1bab015e353d962127
+    Encrypted bytes: b"\x1b\xab\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 912: dnscat.354801329a26941a3f
+    Extracted hex data: 354801329a26941a3f
+    Encrypted bytes: b'5H\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 914: dnscat.0136015e353d962127
+    Extracted hex data: 0136015e353d962127
+    Encrypted bytes: b"\x016\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 916: dnscat.132401329a26941a3f
+    Extracted hex data: 132401329a26941a3f
+    Encrypted bytes: b'\x13$\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 918: dnscat.4a27015e353d962127
+    Extracted hex data: 4a27015e353d962127
+    Encrypted bytes: b"J'\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 920: dnscat.0b9d01329a26941a3f
+    Extracted hex data: 0b9d01329a26941a3f
+    Encrypted bytes: b'\x0b\x9d\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 924: dnscat.1808015e353d962127
+    Extracted hex data: 1808015e353d962127
+    Encrypted bytes: b"\x18\x08\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 926: dnscat.046001329a26941a3f
+    Extracted hex data: 046001329a26941a3f
+    Encrypted bytes: b'\x04`\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 928: dnscat.4da3015e353d962127
+    Extracted hex data: 4da3015e353d962127
+    Encrypted bytes: b"M\xa3\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 932: dnscat.553a01329a26941a3f
+    Extracted hex data: 553a01329a26941a3f
+    Encrypted bytes: b'U:\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 934: dnscat.30f0015e353d962127
+    Extracted hex data: 30f0015e353d962127
+    Encrypted bytes: b"0\xf0\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 936: dnscat.301f01329a26941a3f
+    Extracted hex data: 301f01329a26941a3f
+    Encrypted bytes: b'0\x1f\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 938: dnscat.5070015e353d962127
+    Extracted hex data: 5070015e353d962127
+    Encrypted bytes: b"Pp\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 940: dnscat.792801329a26941a3f
+    Extracted hex data: 792801329a26941a3f
+    Encrypted bytes: b'y(\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 942: dnscat.568b015e353d962127
+    Extracted hex data: 568b015e353d962127
+    Encrypted bytes: b"V\x8b\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 944: dnscat.306a01329a26941a3f
+    Extracted hex data: 306a01329a26941a3f
+    Encrypted bytes: b'0j\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 946: dnscat.55c2015e353d962127
+    Extracted hex data: 55c2015e353d962127
+    Encrypted bytes: b"U\xc2\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 948: dnscat.68f201329a26941a3f
+    Extracted hex data: 68f201329a26941a3f
+    Encrypted bytes: b'h\xf2\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 950: dnscat.2ed7015e353d962127
+    Extracted hex data: 2ed7015e353d962127
+    Encrypted bytes: b".\xd7\x01^5=\x96!'"... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 952: dnscat.6f56015e353d96212b6469720a2092aeac20a220e3e1e2e0aea9e1e2a2a5.204320ada520a8aca5a5e220aca5e2aaa82e0d0a2091a5e0a8a9adeba920.adaeaca5e020e2aeaca03a20454136322d374335340d0a0d0a2091aea4a5.e0a6a8acaea520afa0afaaa820433a5c55736572735c41646d
+    Extracted hex data: 6f56015e353d96212b6469720a2092aeac20a220e3e1e2e0aea9e1e2a2a5
+    Encrypted bytes: b'oV\x01^5=\x96!+dir\n \x92\xae\xac \xa2 '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 954: dnscat.0e37015e353e00212b696e5c4465736b746f700d0a0d0a32372e30382e32.303230202032323a3233202020203c4449523e202020202020202020202e.0d0a32372e30382e32303230202032323a3233202020203c4449523e2020.20202020202020202e2e0d0a32372e30382e32303230202032
+    Extracted hex data: 0e37015e353e00212b696e5c4465736b746f700d0a0d0a32372e30382e32
+    Encrypted bytes: b'\x0e7\x01^5>\x00!+in\\Desktop\r'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 956: dnscat.078f015e353e6a212b323a30362020202020202020202020202020202033.3420666c61672e7478740d0a32372e30382e32303230202032323a323320.20202020202020202020202020202031382068656c6c6f2e7478740d0a20.20202020202020202020202020203220e4a0a9abaea2202020
+    Extracted hex data: 078f015e353e6a212b323a30362020202020202020202020202020202033
+    Encrypted bytes: b'\x07\x8f\x01^5>j!+2:06       '... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 958: dnscat.304c015e353ed4212b20202020202020202020353220a1a0a9e20d0a2020.202020202020202020202020203220afa0afaeaa2020323631ff393830ff.303631ff36393620a1a0a9e220e1a2aea1aea4adae0d0a0d0a433a5c5573.6572735c41646d696e5c4465736b746f703e
+    Extracted hex data: 304c015e353ed4212b20202020202020202020353220a1a0a9e20d0a2020
+    Encrypted bytes: b'0L\x01^5>\xd4!+          5'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 960: dnscat.5d18015e353f37212b
+    Extracted hex data: 5d18015e353f37212b
+    Encrypted bytes: b']\x18\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 962: dnscat.348801329a26941a3f
+    Extracted hex data: 348801329a26941a3f
+    Encrypted bytes: b'4\x88\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 964: dnscat.318f015e353f37212b
+    Extracted hex data: 318f015e353f37212b
+    Encrypted bytes: b'1\x8f\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 966: dnscat.553801329a26941a3f
+    Extracted hex data: 553801329a26941a3f
+    Encrypted bytes: b'U8\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 968: dnscat.5548015e353f37212b
+    Extracted hex data: 5548015e353f37212b
+    Encrypted bytes: b'UH\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 970: dnscat.6e8d01329a26941a3f
+    Extracted hex data: 6e8d01329a26941a3f
+    Encrypted bytes: b'n\x8d\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 972: dnscat.5289015e353f37212b
+    Extracted hex data: 5289015e353f37212b
+    Encrypted bytes: b'R\x89\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 974: dnscat.695b01329a26941a3f
+    Extracted hex data: 695b01329a26941a3f
+    Encrypted bytes: b'i[\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 976: dnscat.3f73015e353f37212b
+    Extracted hex data: 3f73015e353f37212b
+    Encrypted bytes: b'?s\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 978: dnscat.6e7601329a26941a3f
+    Extracted hex data: 6e7601329a26941a3f
+    Encrypted bytes: b'nv\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 980: dnscat.33c3015e353f37212b
+    Extracted hex data: 33c3015e353f37212b
+    Encrypted bytes: b'3\xc3\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 982: dnscat.4dc301329a26941a3f
+    Extracted hex data: 4dc301329a26941a3f
+    Encrypted bytes: b'M\xc3\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 984: dnscat.36e7015e353f37212b
+    Extracted hex data: 36e7015e353f37212b
+    Encrypted bytes: b'6\xe7\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 986: dnscat.504701329a26941a3f
+    Extracted hex data: 504701329a26941a3f
+    Encrypted bytes: b'PG\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 988: dnscat.7023015e353f37212b
+    Extracted hex data: 7023015e353f37212b
+    Encrypted bytes: b'p#\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 990: dnscat.4ee801329a26941a3f
+    Extracted hex data: 4ee801329a26941a3f
+    Encrypted bytes: b'N\xe8\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 992: dnscat.45ba015e353f37212b
+    Extracted hex data: 45ba015e353f37212b
+    Encrypted bytes: b'E\xba\x01^5?7!+'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 994: dnscat.6f9501329a26941a3f
+    Extracted hex data: 6f9501329a26941a3f
+    Encrypted bytes: b'o\x95\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 996: dnscat.3955015e353f3721396d6f726520666c61672e7478740a5332317b773030.775f683164335f346e645f7333336b5f316e733164335f646e737d0d0a0d.0a433a5c55736572735c41646d696e5c4465736b746f703e
+    Extracted hex data: 3955015e353f3721396d6f726520666c61672e7478740a5332317b773030
+    Encrypted bytes: b'9U\x01^5?7!9more flag.t'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 998: dnscat.690a015e353f822139
+    Extracted hex data: 690a015e353f822139
+    Encrypted bytes: b'i\n\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1000: dnscat.7f1b01329a26941a3f
+    Extracted hex data: 7f1b01329a26941a3f
+    Encrypted bytes: b'\x7f\x1b\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1002: dnscat.317e015e353f822139
+    Extracted hex data: 317e015e353f822139
+    Encrypted bytes: b'1~\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1004: dnscat.5a3d01329a26941a3f
+    Extracted hex data: 5a3d01329a26941a3f
+    Encrypted bytes: b'Z=\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1006: dnscat.16ca015e353f822139
+    Extracted hex data: 16ca015e353f822139
+    Encrypted bytes: b'\x16\xca\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1008: dnscat.04dd01329a26941a3f
+    Extracted hex data: 04dd01329a26941a3f
+    Encrypted bytes: b'\x04\xdd\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1010: dnscat.7eee015e353f822139
+    Extracted hex data: 7eee015e353f822139
+    Encrypted bytes: b'~\xee\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1012: dnscat.229f01329a26941a3f
+    Extracted hex data: 229f01329a26941a3f
+    Encrypted bytes: b'"\x9f\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1014: dnscat.0607015e353f822139
+    Extracted hex data: 0607015e353f822139
+    Encrypted bytes: b'\x06\x07\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1016: dnscat.444101329a26941a3f
+    Extracted hex data: 444101329a26941a3f
+    Encrypted bytes: b'DA\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1018: dnscat.6b0f015e353f822139
+    Extracted hex data: 6b0f015e353f822139
+    Encrypted bytes: b'k\x0f\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1020: dnscat.280c01329a26941a3f
+    Extracted hex data: 280c01329a26941a3f
+    Encrypted bytes: b'(\x0c\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1022: dnscat.4efb015e353f822139
+    Extracted hex data: 4efb015e353f822139
+    Encrypted bytes: b'N\xfb\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1024: dnscat.760201329a26941a3f
+    Extracted hex data: 760201329a26941a3f
+    Encrypted bytes: b'v\x02\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1026: dnscat.4211015e353f822139
+    Extracted hex data: 4211015e353f822139
+    Encrypted bytes: b'B\x11\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1028: dnscat.080f01329a26941a3f
+    Extracted hex data: 080f01329a26941a3f
+    Encrypted bytes: b'\x08\x0f\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1030: dnscat.0995015e353f822139
+    Extracted hex data: 0995015e353f822139
+    Encrypted bytes: b'\t\x95\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1032: dnscat.2da601329a26941a3f
+    Extracted hex data: 2da601329a26941a3f
+    Encrypted bytes: b'-\xa6\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1036: dnscat.7c1b015e353f822139
+    Extracted hex data: 7c1b015e353f822139
+    Encrypted bytes: b'|\x1b\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1038: dnscat.179801329a26941a3f
+    Extracted hex data: 179801329a26941a3f
+    Encrypted bytes: b'\x17\x98\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1041: dnscat.5d18015e353f822139
+    Extracted hex data: 5d18015e353f822139
+    Encrypted bytes: b']\x18\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1043: dnscat.040301329a26941a3f
+    Extracted hex data: 040301329a26941a3f
+    Encrypted bytes: b'\x04\x03\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1045: dnscat.5090015e353f822139
+    Extracted hex data: 5090015e353f822139
+    Encrypted bytes: b'P\x90\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1047: dnscat.2ba801329a26941a3f
+    Extracted hex data: 2ba801329a26941a3f
+    Encrypted bytes: b'+\xa8\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1049: dnscat.65f4015e353f822139
+    Extracted hex data: 65f4015e353f822139
+    Encrypted bytes: b'e\xf4\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1051: dnscat.290f01329a26941a3f
+    Extracted hex data: 290f01329a26941a3f
+    Encrypted bytes: b')\x0f\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1053: dnscat.6586015e353f822139
+    Extracted hex data: 6586015e353f822139
+    Encrypted bytes: b'e\x86\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1055: dnscat.673d01329a26941a3f
+    Extracted hex data: 673d01329a26941a3f
+    Encrypted bytes: b'g=\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1057: dnscat.0de3015e353f822139
+    Extracted hex data: 0de3015e353f822139
+    Encrypted bytes: b'\r\xe3\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1059: dnscat.68ec01329a26941a3f
+    Extracted hex data: 68ec01329a26941a3f
+    Encrypted bytes: b'h\xec\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1061: dnscat.5783015e353f822139
+    Extracted hex data: 5783015e353f822139
+    Encrypted bytes: b'W\x83\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1063: dnscat.3a7f01329a26941a3f
+    Extracted hex data: 3a7f01329a26941a3f
+    Encrypted bytes: b':\x7f\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1065: dnscat.3247015e353f822139
+    Extracted hex data: 3247015e353f822139
+    Encrypted bytes: b'2G\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1067: dnscat.703201329a26941a3f
+    Extracted hex data: 703201329a26941a3f
+    Encrypted bytes: b'p2\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1069: dnscat.1579015e353f822139
+    Extracted hex data: 1579015e353f822139
+    Encrypted bytes: b'\x15y\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1071: dnscat.7f2c01329a26941a3f
+    Extracted hex data: 7f2c01329a26941a3f
+    Encrypted bytes: b'\x7f,\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1073: dnscat.34c3015e353f822139
+    Extracted hex data: 34c3015e353f822139
+    Encrypted bytes: b'4\xc3\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1075: dnscat.5b7f01329a26941a3f
+    Extracted hex data: 5b7f01329a26941a3f
+    Encrypted bytes: b'[\x7f\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1077: dnscat.4d04015e353f822139
+    Extracted hex data: 4d04015e353f822139
+    Encrypted bytes: b'M\x04\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1081: dnscat.5e4101329a26941a3f
+    Extracted hex data: 5e4101329a26941a3f
+    Encrypted bytes: b'^A\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1083: dnscat.5218015e353f822139
+    Extracted hex data: 5218015e353f822139
+    Encrypted bytes: b'R\x18\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1085: dnscat.5e3c01329a26941a3f
+    Extracted hex data: 5e3c01329a26941a3f
+    Encrypted bytes: b'^<\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1087: dnscat.62e2015e353f822139
+    Extracted hex data: 62e2015e353f822139
+    Encrypted bytes: b'b\xe2\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1089: dnscat.6ae901329a26941a3f
+    Extracted hex data: 6ae901329a26941a3f
+    Encrypted bytes: b'j\xe9\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1091: dnscat.5b41015e353f822139
+    Extracted hex data: 5b41015e353f822139
+    Encrypted bytes: b'[A\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1093: dnscat.0cb101329a26941a3f
+    Extracted hex data: 0cb101329a26941a3f
+    Encrypted bytes: b'\x0c\xb1\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1095: dnscat.33b3015e353f822139
+    Extracted hex data: 33b3015e353f822139
+    Encrypted bytes: b'3\xb3\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1097: dnscat.1eaa01329a26941a3f
+    Extracted hex data: 1eaa01329a26941a3f
+    Encrypted bytes: b'\x1e\xaa\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1099: dnscat.2cd0015e353f822139
+    Extracted hex data: 2cd0015e353f822139
+    Encrypted bytes: b',\xd0\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1101: dnscat.154b01329a26941a3f
+    Extracted hex data: 154b01329a26941a3f
+    Encrypted bytes: b'\x15K\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1103: dnscat.18f1015e353f822139
+    Extracted hex data: 18f1015e353f822139
+    Encrypted bytes: b'\x18\xf1\x01^5?\x82!9'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1105: dnscat.22cd015e353f82215a6563686f202248656c6c6f2c2041646d696e212220.3e2068656c6c6f2e7478740a0d0a433a5c55736572735c41646d696e5c44.65736b746f703e
+    Extracted hex data: 22cd015e353f82215a6563686f202248656c6c6f2c2041646d696e212220
+    Encrypted bytes: b'"\xcd\x01^5?\x82!Zecho "Hello'... (length: 30)
+    ⚠️ Data length 30 not multiple of 16, skipping
+
+[+] Packet 1107: dnscat.008b015e353fbc215a
+    Extracted hex data: 008b015e353fbc215a
+    Encrypted bytes: b'\x00\x8b\x01^5?\xbc!Z'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1109: dnscat.752c01329a26941a3f
+    Extracted hex data: 752c01329a26941a3f
+    Encrypted bytes: b'u,\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1111: dnscat.6e31015e353fbc215a
+    Extracted hex data: 6e31015e353fbc215a
+    Encrypted bytes: b'n1\x01^5?\xbc!Z'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1113: dnscat.130d01329a26941a3f
+    Extracted hex data: 130d01329a26941a3f
+    Encrypted bytes: b'\x13\r\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1115: dnscat.7542015e353fbc215a
+    Extracted hex data: 7542015e353fbc215a
+    Encrypted bytes: b'uB\x01^5?\xbc!Z'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1117: dnscat.73f301329a26941a3f
+    Extracted hex data: 73f301329a26941a3f
+    Encrypted bytes: b's\xf3\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1119: dnscat.129b015e353fbc215a
+    Extracted hex data: 129b015e353fbc215a
+    Encrypted bytes: b'\x12\x9b\x01^5?\xbc!Z'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1121: dnscat.258401329a26941a3f
+    Extracted hex data: 258401329a26941a3f
+    Encrypted bytes: b'%\x84\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1123: dnscat.68f2015e353fbc215a
+    Extracted hex data: 68f2015e353fbc215a
+    Encrypted bytes: b'h\xf2\x01^5?\xbc!Z'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1125: dnscat.72cd01329a26941a3f
+    Extracted hex data: 72cd01329a26941a3f
+    Encrypted bytes: b'r\xcd\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1127: dnscat.22a6015e353fbc215a
+    Extracted hex data: 22a6015e353fbc215a
+    Encrypted bytes: b'"\xa6\x01^5?\xbc!Z'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1129: dnscat.63d1015e353fbc215f657869740a
+    Extracted hex data: 63d1015e353fbc215f657869740a
+    Encrypted bytes: b'c\xd1\x01^5?\xbc!_exit\n'... (length: 14)
+    ⚠️ Data length 14 not multiple of 16, skipping
+
+[+] Packet 1131: dnscat.011f025e3553747265616d20636c6f73656400
+    Extracted hex data: 011f025e3553747265616d20636c6f73656400
+    Encrypted bytes: b'\x01\x1f\x02^5Stream closed\x00'... (length: 19)
+    ⚠️ Data length 19 not multiple of 16, skipping
+
+[+] Packet 1133: dnscat.5abc01329a26941a3f
+    Extracted hex data: 5abc01329a26941a3f
+    Encrypted bytes: b'Z\xbc\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1135: dnscat.661801329a26941a3f
+    Extracted hex data: 661801329a26941a3f
+    Encrypted bytes: b'f\x18\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1137: dnscat.618d01329a26941a3f
+    Extracted hex data: 618d01329a26941a3f
+    Encrypted bytes: b'a\x8d\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1141: dnscat.7d6e01329a26941a3f
+    Extracted hex data: 7d6e01329a26941a3f
+    Encrypted bytes: b'}n\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1143: dnscat.362601329a26941a3f
+    Extracted hex data: 362601329a26941a3f
+    Encrypted bytes: b'6&\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1145: dnscat.2e3e01329a26941a3f
+    Extracted hex data: 2e3e01329a26941a3f
+    Encrypted bytes: b'.>\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1147: dnscat.1bf001329a26941a3f
+    Extracted hex data: 1bf001329a26941a3f
+    Encrypted bytes: b'\x1b\xf0\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1149: dnscat.308101329a26941a3f
+    Extracted hex data: 308101329a26941a3f
+    Encrypted bytes: b'0\x81\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1151: dnscat.41a001329a26941a3f
+    Extracted hex data: 41a001329a26941a3f
+    Encrypted bytes: b'A\xa0\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[+] Packet 1153: dnscat.206701329a26941a3f
+    Extracted hex data: 206701329a26941a3f
+    Encrypted bytes: b' g\x012\x9a&\x94\x1a?'... (length: 9)
+    ⚠️ Data length 9 not multiple of 16, skipping
+
+[*] Processed 379 DNS packets
+
+============================================================
+[+] Decoding complete. Found 0 decoded messages

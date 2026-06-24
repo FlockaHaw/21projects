@@ -1,0 +1,8 @@
+1. TA0001         ; T1078 - Valid Accounts
+2. TA0001, TA0002 ; T1203 - Exploitation for Client Execution, T1190 - Exploit public-facing Application
+3. TA0001, TA0006 ; T1566 - Phishing T1598 - Phishing for Information
+4. TA0004         ; T1548 - Abuse elevation control mechanism, T1068 - Exploitation for privilege escalation 
+5. TA0043, TA0007 ; T1018 - Remote System Discovery, T1033 - System Owner/User Discovery, T1049 - System Network Connections Discovery
+6. TA0011, TA0002 ; T1219 - Remote access tools, T1203 - Exploitation for client execution, T1059 - Command and Scripting Interpreter
+7. TA0043         ; T1595 - Active scanning, T1046 - Network Service discovery
+8. TA0005         ; T1564 - Hide artifacts, T1070 - Indicator removal

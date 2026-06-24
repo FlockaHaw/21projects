@@ -1,0 +1,23 @@
+# Основная конфигурация postfix для отправки логов через smtp.yandex.ru
+myhostname = mail.yandex.test
+myorigin = /etc/mailname
+mydestination = localhost
+
+relayhost = [smtp.yandex.ru]:587
+
+smtp_use_tls = yes
+smtp_tls_security_level = encrypt
+smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
+smtp_generic_maps = hash:/etc/postfix/generic
+
+smtp_sasl_auth_enable = yes
+smtp_sasl_password_maps = hash:/etc/postfix/sasl_passwd
+smtp_sasl_security_options = noanonymous
+
+smtpd_recipient_restrictions = permit_mynetworks, permit_sasl_authenticated, reject_unauth_destination
+smtp_header_checks = regexp:/etc/postfix/header_checks
+sender_canonical_maps = hash:/etc/postfix/sender_canonical
+
+inet_interfaces = all
+inet_protocols = ipv4
+

@@ -1,0 +1,1 @@
+тут nmap сразу на питоне: https://stackoverflow.com/questions/31104766/parsing-an-nmap-result

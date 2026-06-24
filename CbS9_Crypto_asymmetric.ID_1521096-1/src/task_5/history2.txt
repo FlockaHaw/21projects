@@ -1,0 +1,5 @@
+term1:
+  528  openssl verify -CAfile certs/CAcert.crt certs/CAcert.crt
+  531  openssl s_client -connect localhost:4433 -CAfile certs/CAcert.crt
+term2:
+  319  openssl s_server -accept 4433 -cert certs/server.crt -key private/server.key

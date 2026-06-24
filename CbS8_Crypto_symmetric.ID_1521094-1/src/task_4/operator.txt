@@ -1,0 +1,5 @@
+some_operating_mode_1.py: ECB (Electronic Codebook)
+some_operating_mode_2.py: CBC (Cipher Block Chaining)
+some_operating_mode_3.py: CFB (Cipher Feedback)
+some_operating_mode_4.py: OFB (Output Feedback)
+some_operating_mode_5.py: CTR (Counter)

@@ -1,0 +1,220 @@
+
+<filter>
+	<rule>
+		<id></id>
+		<tracker>1769469818</tracker>
+		<type>pass</type>
+		<interface>wan</interface>
+		<ipprotocol>inet</ipprotocol>
+		<tag></tag>
+		<tagged></tagged>
+		<max></max>
+		<max-src-nodes></max-src-nodes>
+		<max-src-conn></max-src-conn>
+		<max-src-states></max-src-states>
+		<statetimeout></statetimeout>
+		<statetype><![CDATA[keep state]]></statetype>
+		<os></os>
+		<source>
+			<any></any>
+		</source>
+		<destination>
+			<any></any>
+		</destination>
+		<descr></descr>
+		<updated>
+			<time>1769469818</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</updated>
+		<created>
+			<time>1769469818</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</created>
+	</rule>
+	<rule>
+		<id></id>
+		<tracker>1769539329</tracker>
+		<type>pass</type>
+		<interface>lan</interface>
+		<ipprotocol>inet</ipprotocol>
+		<tag></tag>
+		<tagged></tagged>
+		<max></max>
+		<max-src-nodes></max-src-nodes>
+		<max-src-conn></max-src-conn>
+		<max-src-states></max-src-states>
+		<statetimeout></statetimeout>
+		<statetype><![CDATA[keep state]]></statetype>
+		<os></os>
+		<protocol>tcp</protocol>
+		<source>
+			<network>lan</network>
+		</source>
+		<destination>
+			<any></any>
+			<port>25</port>
+		</destination>
+		<log></log>
+		<descr><![CDATA[Allow SMTP at workinf hours]]></descr>
+		<sched>work_hrs</sched>
+		<created>
+			<time>1769539329</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</created>
+		<updated>
+			<time>1769539493</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</updated>
+	</rule>
+	<rule>
+		<id></id>
+		<tracker>1769539458</tracker>
+		<type>block</type>
+		<interface>lan</interface>
+		<ipprotocol>inet</ipprotocol>
+		<tag></tag>
+		<tagged></tagged>
+		<max></max>
+		<max-src-nodes></max-src-nodes>
+		<max-src-conn></max-src-conn>
+		<max-src-states></max-src-states>
+		<statetimeout></statetimeout>
+		<statetype><![CDATA[keep state]]></statetype>
+		<os></os>
+		<protocol>tcp</protocol>
+		<source>
+			<network>lan</network>
+		</source>
+		<destination>
+			<any></any>
+			<port>25</port>
+		</destination>
+		<log></log>
+		<descr><![CDATA[Block SMTP outside working hours]]></descr>
+		<created>
+			<time>1769539458</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</created>
+		<updated>
+			<time>1769540023</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</updated>
+	</rule>
+	<rule>
+		<id></id>
+		<tracker>1769538795</tracker>
+		<type>block</type>
+		<interface>lan</interface>
+		<ipprotocol>inet</ipprotocol>
+		<tag></tag>
+		<tagged></tagged>
+		<max></max>
+		<max-src-nodes></max-src-nodes>
+		<max-src-conn></max-src-conn>
+		<max-src-states></max-src-states>
+		<statetimeout></statetimeout>
+		<statetype><![CDATA[keep state]]></statetype>
+		<os></os>
+		<protocol>tcp</protocol>
+		<source>
+			<network>lan</network>
+		</source>
+		<destination>
+			<any></any>
+			<port>3389</port>
+		</destination>
+		<log></log>
+		<descr><![CDATA[Block RDP from LAN]]></descr>
+		<updated>
+			<time>1769538795</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</updated>
+		<created>
+			<time>1769538795</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</created>
+	</rule>
+	<rule>
+		<id></id>
+		<tracker>1769539608</tracker>
+		<type>block</type>
+		<interface>lan</interface>
+		<ipprotocol>inet</ipprotocol>
+		<tag></tag>
+		<tagged></tagged>
+		<max></max>
+		<max-src-nodes></max-src-nodes>
+		<max-src-conn></max-src-conn>
+		<max-src-states></max-src-states>
+		<statetimeout></statetimeout>
+		<statetype><![CDATA[keep state]]></statetype>
+		<os></os>
+		<protocol>tcp</protocol>
+		<source>
+			<network>lan</network>
+		</source>
+		<destination>
+			<any></any>
+			<port>22</port>
+		</destination>
+		<log></log>
+		<descr><![CDATA[Block SSH from LAN]]></descr>
+		<updated>
+			<time>1769539608</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</updated>
+		<created>
+			<time>1769539608</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</created>
+	</rule>
+	<rule>
+		<type>pass</type>
+		<ipprotocol>inet</ipprotocol>
+		<descr><![CDATA[Default allow LAN to any rule]]></descr>
+		<interface>lan</interface>
+		<tracker>0100000101</tracker>
+		<source>
+			<network>lan</network>
+		</source>
+		<destination>
+			<any></any>
+		</destination>
+	</rule>
+	<rule>
+		<id></id>
+		<tracker>1769466048</tracker>
+		<type>pass</type>
+		<interface>enc0</interface>
+		<ipprotocol>inet</ipprotocol>
+		<tag></tag>
+		<tagged></tagged>
+		<max></max>
+		<max-src-nodes></max-src-nodes>
+		<max-src-conn></max-src-conn>
+		<max-src-states></max-src-states>
+		<statetimeout></statetimeout>
+		<statetype><![CDATA[keep state]]></statetype>
+		<os></os>
+		<source>
+			<any></any>
+		</source>
+		<destination>
+			<any></any>
+		</destination>
+		<descr></descr>
+		<created>
+			<time>1769466048</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</created>
+		<updated>
+			<time>1769476173</time>
+			<username><![CDATA[admin@192.168.100.10 (Local Database)]]></username>
+		</updated>
+	</rule>
+	<separator>
+		<enc0></enc0>
+		<wan></wan>
+		<lan></lan>
+	</separator>
+</filter>

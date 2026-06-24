@@ -1,0 +1,49 @@
+  422  openssl rsa -in geruss_key -out geruss_key.pem
+  424  Generating public/private rsa key pair.
+  425  Enter passphrase for "geruss_key" (empty for no passphrase): 
+  426  Enter same passphrase again: 
+  427  Your identification has been saved in geruss_key
+  428  Your public key has been saved in geruss_key.pub
+  429  The key fingerprint is:
+  441  openssl rsa -in geruss_key.pem -check
+  442  openssl req -new -key geruss_key.pem -out geruss_req.csr -subj "/O=School-21/OU=CoolPeer"
+  444  openssl req -in geruss_req.csr -text -noout | head -n 10
+  445  openssl x509 -req -in geruss_req.csr -signkey geruss_key.pem -out geruss_cert_signed.pem -days 365
+  446  openssl x509 -in geruss_cert_signed.pem -noout -text 
+  448  mkdir task_4
+  449  mv geruss_key.pem geruss_cert_signed.pem task_4
+  453  cd projects
+  454  ks
+  456  cd ..
+  458  cd projects
+  461  git clone ssh://git@git-ssh.21-school.ru:2222/students_repo/gerusswh/CbS9_Crypto_asymmetric.ID_1521096-1.git
+  463  git clone ssh://git@git-ssh.21-school.ru:2222/students_repo/gerusswh/CbS9_Crypto_asymmetric.ID_1521096-1.git
+  465  cd CbS9_Crypto_asymmetric.ID_1521096-1
+  466  git switch develop
+  467  cd src
+  469  mv ../../../task_4 .
+  471  cd task_4
+  473  openssl rsa -in geruss_key.pem -check
+  475  openssl x509 -in geruss_cert_signed.pem -noout -text | head -n 10
+  476  openssl x509 -in geruss_cert_signed.pem -noout -text | head -n 15
+  478  git add .
+  479  git status
+  480  git commit -m "dev_t4_sol"
+  481  git push origin develop
+  482  cd 
+  484  cd projects/o
+  485  cd projects/
+  488  mkdir pki
+  489  cd pki
+  491  mkdir certs private newcerts
+  493  openssl genrsa -aes256 -out private/CAkey.key
+  495  openssl rsa -in private/CAkey.key -check
+  497  openssl rsa -in private/CAkey.key -noout -text | head -n 10
+  501  openssl req -new -x509 -days 365 -key private/CAkey.key -out certs/CAcert.crt -subj "/O=School21/OU=RootCerificate/CN=Geruss Whiteman"
+  503  openssl x509 -in certs/CAcert.crt -noout -text | head -n 10
+  504  openssl genrsa -aes256 -out private/server.key
+  506  openssl rsa -in private/server.key -noout -text | head -n 10
+  507  openssl rsa -in private/server.key -noout -text
+  509  openssl req -new -key private/server.key -out newcerts/server.csr -subj "/O=OtherSchool/OU=SomeServer/CN=Somebody"
+  511  openssl req -in newcerts/server.csr -noout -text | head -n 20
+  512  openssl x509 -req -in newcerts/server.csr -CA certs/CAcert.crt -CAkey private/CAkey.key -out certs/server.crt -days 365
